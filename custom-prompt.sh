@@ -1,0 +1,1 @@
+PROMPT="%{$fg_bold[white]%}${K8S_NAMESPACE} ${PROMPT}"
