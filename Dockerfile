@@ -1,4 +1,4 @@
-FROM favish/php-7.4-fpm-drupal-8:1.0
+FROM favish/php-7.4-fpm-drupal-8:2.0.0
 
 RUN apt-get update \
   && apt-get install -y \
