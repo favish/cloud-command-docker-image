@@ -1,4 +1,4 @@
-FROM favish/php-fpm:3.0.4
+FROM favish/php-fpm:5.0.1
 
 RUN apt-get update \
   && apt-get install -y \

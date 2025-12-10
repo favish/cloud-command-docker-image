@@ -6,6 +6,11 @@ These images are meant to be rather beefy images with tools an operator might us
 You exec in to one of these to perform CLI based actions against the pod of the target type.
 
 ### Changelog
+
+## [7.0.0] - 2023-09-27
+- Update favish/php-fpm base image to 5.0.1 which based on php-fpm 8.4
+- Update circleci docker orb in attempt to resolve bug with update description
+
 ## [6.0.1] - 2023-09-27
 - Update circleci docker orb in attempt to resolve bug with update description
 
