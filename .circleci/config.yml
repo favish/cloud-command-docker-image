@@ -1,12 +1,12 @@
 version: '2.1'
 orbs:
-  docker: circleci/docker@2.4.0
+  docker: circleci/docker@3.0.1
 workflows:
   build-docker-image-only:
     jobs:
       - docker/publish:
           image: favish/cloud-command-drupal
-          update-description: true
+          update_description: true
           tag: $CIRCLE_TAG
           filters:
             tags:
