@@ -6,6 +6,10 @@ These images are meant to be rather beefy images with tools an operator might us
 You exec in to one of these to perform CLI based actions against the pod of the target type.
 
 ### Changelog
+
+## [8.1-debian] - 2026-05-21
+- Add image for PHP-FPM 8.1-debian, based from `favish/php-fpm:8.1-debian`.
+
 ## [6.0.1] - 2023-09-27
 - Update circleci docker orb in attempt to resolve bug with update description
 
