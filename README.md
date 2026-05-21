@@ -6,6 +6,10 @@ These images are meant to be rather beefy images with tools an operator might us
 You exec in to one of these to perform CLI based actions against the pod of the target type.
 
 ### Changelog
+
+## [8.4-debian] - 2026-05-21
+- Add image for PHP-FPM 8.4-debian, based from `favish/php-fpm:8.4-debian`.
+
 ## [8.3-debian] - 2026-05-21
 - Add image for PHP-FPM 8.3-debian, based from `favish/php-fpm:8.3-debian`.
 

@@ -1,4 +1,4 @@
-FROM favish/php-fpm:8.3-debian
+FROM favish/php-fpm:8.4-debian
 
 RUN apt-get update \
   && apt-get install -y \
