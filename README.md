@@ -7,6 +7,9 @@ You exec in to one of these to perform CLI based actions against the pod of the 
 
 ### Changelog
 
+## [8.2-debian] - 2026-05-21
+- Add image for PHP-FPM 8.2-debian, based from `favish/php-fpm:8.2-debian`.
+
 ## [8.1-debian] - 2026-05-21
 - Add image for PHP-FPM 8.1-debian, based from `favish/php-fpm:8.1-debian`.
 
