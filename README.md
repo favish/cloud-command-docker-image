@@ -7,6 +7,9 @@ You exec in to one of these to perform CLI based actions against the pod of the 
 
 ### Changelog
 
+## [8.2-debian] - 2026-10-21
+- Rebuild on `favish/php-fpm:8.2-debian`, which is now PHP 8.2.35.
+
 ## [8.5-debian] - 2026-10-01
 - Rebuild on `favish/php-fpm:8.5-debian`, which is now PHP 8.5.11.
 - Image is now built and published by GitHub Actions instead of CircleCI.
